@@ -30,6 +30,7 @@ int get_size(void)
     {
        n = get_int("Size: "); /* code */
     } 
+    
     while (n<1);
     return n;
 }
@@ -37,11 +38,22 @@ int get_size(void)
 void print_grid(int size)
 {
    for(int i = 0; i<size; i++)
+
     {
-        for(int j = 0; j<size; j++)
+       // printf("#");
+        for(int j = size; j<=i; j++)
         {
-            printf("#");
+            if (i+j<=size)
+            {
+                printf("# ");
+            }
+            else
+            {
+                 //printf("#");
+            }
+             
         }
+         //printf("##");
         printf("\n");
     }  
 }
