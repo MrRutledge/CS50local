@@ -23,17 +23,17 @@ int main(void)
 
 
 
-// int get_size(void)
-// {
-//     int n;
-//     do
-//     {
-//        n = get_int("Size: "); /* code */
-//     } 
+int get_size(void)
+{
+    int n;
+    do
+    {
+       n = get_int("Size: "); /* code */
+    } 
     
-//     while (n<1);
-//     return n;
-// }
+    while (n>=1 && n<=8);
+    return n;
+}
 
 void print_grid(int size)
 {
@@ -43,7 +43,7 @@ void print_grid(int size)
 
     {
        //printf("#1");
-        for(int j = size; ; j++)
+        for(int j = 1;j+i<size ; j++)
         {
             if (i+j<=size)
             {
