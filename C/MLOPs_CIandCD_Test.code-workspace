@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../MLOPs_CIandCD_Test"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

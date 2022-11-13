@@ -49,6 +49,7 @@ void print_grid(int size)
             {
                 printf(" ");
             }
+            //The print statement 
             else
             {
                  printf("2#");
