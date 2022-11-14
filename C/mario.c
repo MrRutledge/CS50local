@@ -23,17 +23,17 @@ int main(void)
 
 
 
-// int get_size(void)
-// {
-//     int n;
-//     do
-//     {
-//        n = get_int("Size: "); /* code */
-//     } 
+int get_size(void)
+{
+    int n;
+    do
+    {
+       n = get_int("Size: "); /* code */
+    } 
     
-//     while (n<1);
-//     return n;
-// }
+    while (n<1);
+    return n;
+}
 
 void print_grid(int size)
 {
