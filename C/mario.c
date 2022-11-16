@@ -19,10 +19,6 @@ int main(void)
 
 
 
-
-
-
-
 int get_size(void)
 {
     int n;
@@ -43,11 +39,11 @@ void print_grid(int size)
 
     {
        //printf("#1");
-        for(int j = size; ; j++)
+        for(int j=size; j<=size; j++)
         {
-            if (i+j<=size)
+            if (size<=i+j)
             {
-                printf(" ");
+                printf("# ");
             }
             else
             {
