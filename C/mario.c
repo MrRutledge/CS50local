@@ -47,7 +47,7 @@ void print_grid(int size)
             }
             else
             {
-                 printf("2#");
+                 printf("2#   ");
             }
              
         }
