@@ -6,7 +6,7 @@ void print_grid(int size);
 
 int main(void)
 {   
-    //const int n = 3;
+    const int n = 3;
    int n = get_size();
 
    print_grid(n);
