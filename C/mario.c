@@ -2,11 +2,11 @@
 #include <stdio.h>
 
 int get_size(void);
-void print_grid(int size);
+void print_grid(int size); 
 
 int main(void)
 {   
-    const int n = 3;
+    const int n = 4;
    int n = get_size();
 
    print_grid(n);
