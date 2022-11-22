@@ -39,15 +39,15 @@ void print_grid(int size)
 
     {
        //printf("#1");
-        for(int j=i; j<=size; j++)
+        for(int j=i; j<size; j++)
         {
-            if (size<=j)
+            if (i+j<=size)
             {
-               printf("# ");
+               printf(" ");
             }
             else
             {
-                 printf("   ");
+                 printf("#  ");
             }
 
             // if (j<=size)
