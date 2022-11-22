@@ -6,7 +6,7 @@ void print_grid(int size);
 
 int main(void)
 {   
-    const int n = 4;
+    //const int n;
    int n = get_size();
 
    print_grid(n);
@@ -39,16 +39,26 @@ void print_grid(int size)
 
     {
        //printf("#1");
-        for(int j=size; j<=size; j++)
+        for(int j=i; j<=size; j++)
         {
-            if (size<=i+j)
+            if (size<=j)
             {
-                printf("# ");
+               printf("# ");
             }
             else
             {
-                 printf("2#   ");
+                 printf("   ");
             }
+
+            // if (j<=size)
+            // {
+            //    printf("# ");
+            // }
+            // else
+            // {
+            //      printf("2#   ");
+            // }
+            
              
         }
          //printf("##");
