@@ -35,22 +35,22 @@ void print_grid(int size)
 {
 
     
-   for(int i = 0; i<size; i++)
+   for(int i = 0; i<=size; i++)
 
     {
        //printf("#1");
-        for(int j=0; j<=size; j++)
+        for(int j=0; j<=i; j++)
         {
             
             //for(int z=0; z<size; z++ ) 
             //{
-                //if (i<=size)
+               // if (i<=size && j<size)
                 //{
-               //printf(" ");
-                // }
+               printf("* ");
+                //}
                 //else
                 //{
-                 printf("#  ");
+                 //printf("#  ");
 
                 //}
 
