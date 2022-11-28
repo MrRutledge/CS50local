@@ -47,6 +47,8 @@ void print_grid(int size)
                // if (i<=size && j<size)
                 //{
                printf("* ");
+               //
+               //
                 //}
                 //else
                 //{
