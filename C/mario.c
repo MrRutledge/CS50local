@@ -63,6 +63,8 @@ void print_grid(int size)
             // else
             // {
             //      printf("2#   ");
+            //
+            //
             // }
             
              
