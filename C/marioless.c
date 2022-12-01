@@ -57,6 +57,7 @@ void print_grid(int size)
              
         }
          //printf("##");
+         //
         printf("\n");
     }  
 }
