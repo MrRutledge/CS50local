@@ -42,7 +42,7 @@ void print_grid(int size)
    for(int i = 0; i<size; i++)
 
     {
-       //printf("#1");
+       printf("#1");
         for(int j = 1;j+i<size ; j++)
         {
             if (i+j<=size)
