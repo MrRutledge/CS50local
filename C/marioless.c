@@ -6,7 +6,7 @@ void print_grid(int size);
 
 int main(void)
 {   
-    //const int n = 332598;
+    //const int n = 3325KDK98;
    int n = get_size();
 
    print_grid(n);
