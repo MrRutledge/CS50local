@@ -27,3 +27,5 @@ Strings in C
 strings s = "Hi!"; - A string is an array with each charater having each memory.
 Strings takes up one more byte than required in C \0 Null
 Arrays 
+Strings 
+
