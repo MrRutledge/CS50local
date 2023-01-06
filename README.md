@@ -14,7 +14,7 @@ long - 8 bytes 64
 float - 4 bytes 32
 double - 8 bytes 64
 char - 1 byte
-String - ..
+String - ..--
 
 Memory allocation- computer memory is a canvas. 
 
