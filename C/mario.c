@@ -47,25 +47,25 @@ void print_grid(int size)
                // if (i<=size && j<size)
                 //{
                printf("* ");
-               //
-               //
-                //}
-                //else
-                //{
-                 //printf("#  ");
+               
+               
+                }
+                else
+                {
+                 printf("#  ");
 
-                //}
+                }
 
-           // }            // if (j<=size)
-            // {
-            //    printf("# ");
-            // }
-            // else
-            // {
-            //      printf("2#   ");
-            //
-            //
-            // }
+           }            // if (j<=size)
+            {
+               printf("# ");
+            }
+            else
+            {
+                 printf("2#   ");
+            
+            
+            }
             
              
         }
