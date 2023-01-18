@@ -8,7 +8,7 @@ Programming language
 
 
 #### Data Types
-Bool- 1 byte, 2 bytes 2 bytes
+Bool- 1 byte
 int - 4 bytes 32
 long - 8 bytes 64s
 float - 4 bytes 32
@@ -21,7 +21,7 @@ Memory allocation- computer memory is a canvas.
 Arrays- An Array is a way to storing you data back to back in such a way that it can be retrived. Memory contiguous left to right top to bottom 
 
 declaring an array in C 
-    /** int scores [3]; **/
+    /** int scores [3]; ***/
 
 Strings in C
 strings s = "Hi"; - A string is an array with each charater having each memory.
