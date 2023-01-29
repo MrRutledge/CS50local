@@ -8,7 +8,7 @@ Programming language
 
 
 ### Data Types
-Bool- 1 byte
+Bool-1 byte
 int - 4 bytes 32
 long - 8 bytes 64s
 float - 4 bytes 32
