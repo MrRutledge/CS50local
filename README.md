@@ -24,7 +24,7 @@ declaring an array in C
     /** int scores [3];/
 
 Strings in C
-strings s = "H; - A string is an array with each charater having each memory.
+strings s = "H A string is an array with each charater having each memory.
 Strings takes up one more byte than required in C \0 Null
 Arrays 
 Strings 
