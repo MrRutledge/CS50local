@@ -6,7 +6,7 @@ int main(void)
     string first = get_string("What's your name?\n");
     string last  = get_string("what's your last name\n");
 
-    //print first name and last name hhtgfhjk//
+    //print first name and last name hhtgfsdshjk//
     printf("hello,%s %s\n" , first, last);
 
 }
