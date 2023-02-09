@@ -18,7 +18,7 @@ String - ..--
 
 Memory allocation -computer memory is a canvas. 
 
-Arrays- An Array is a way to storing you data back to back in such a way that it can be retrived. Memory contiguous left to right top to bottom 
+Arrays- An array is a way to storing you data back to back in such a way that it can be retrived. Memory contiguous left to right top to bottom 
 
 declaring an array in C 
     /** int scores [3];**/
