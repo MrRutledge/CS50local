@@ -7,7 +7,7 @@ Programming language
     - Pre-compile 
 
 
-### Data ypes
+### Data types
 Bool-1 byte
 int - 4 bytes 32
 long - 8 bytes 66
