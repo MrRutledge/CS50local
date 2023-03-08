@@ -23,7 +23,7 @@ Arrays- An array is a way to storing you data back to back in such a way that it
 declaring an array in C
     /** int scores [3];'*/
 
-Strings inC
+Strings in
 strings s = " string is an array with each charater having each memory.
 Strings takes up one more byte than required in C \0 Nu
 Arrays
