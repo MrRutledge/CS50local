@@ -7,14 +7,20 @@ Programming languagegit
     - Pre-compile
 
 
+<<<<<<< HEAD
 ### Data type
 Bool-1 byte
+=======
+## Data types
+Bool-1 byt
+
+>>>>>>> 5de451050c42274c3a13cc60b57a656b1a84290d
 int - 4 bytes 32
 long - 8 bytes 66
 float - 4 bytes32
 double - 8 bytes 64
 char - 1 bytes
-String - ..--
+String - ..-
 
 Memory allocation-computer memory is a canvas.
 
@@ -23,8 +29,8 @@ Arrays- An array is a way to storing you data back to back in such a way that it
 declaring an array in C
     /** int scores [3];'*/
 
-Strings inC
+Strings in
 strings s = " string is an array with each charater having each memory.
 Strings takes up one more byte than required in C \0 Nu
 Arrays
-String
+Strin
