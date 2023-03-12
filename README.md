@@ -1,13 +1,13 @@
 # CS50local NOTES
 
 ### C 
-Programming language 
+Programming languagegit 
   Compiling has four steps in C or any programming languange, namely precompile, compile, assemblying and linking.
-  Step one 
-    - Pre-compile 
+  Step one
+    - Pre-compile
 
 
-## Data types
+### Data type
 Bool-1 byte
 int - 4 bytes 32
 long - 8 bytes 66
@@ -16,7 +16,7 @@ double - 8 bytes 64
 char - 1 bytes
 String - ..--
 
-Memory allocation-computer memory is a canvas. 
+Memory allocation-computer memory is a canvas.
 
 Arrays- An array is a way to storing you data back to back in such a way that it can be retrived. Memory contiguous left to right top to bottom
 
