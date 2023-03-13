@@ -7,14 +7,12 @@ Programming languagegit
     - Pre-compile
 
 
-<<<<<<< HEAD
 ### Data type
 Bool-1 byte
 =======
 ## Data types
 Bool-1 byt
 
->>>>>>> 5de451050c42274c3a13cc60b57a656b1a84290d
 int - 4 bytes 32
 long - 8 bytes 66
 float - 4 bytes32
