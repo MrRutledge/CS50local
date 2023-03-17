@@ -10,7 +10,7 @@ Programming languagegit
 ### Data type
 Bool-1 byte
 =======
-## Data types
+## Data Types
 Bool-1 byt
 
 int - 4 bytes 32
