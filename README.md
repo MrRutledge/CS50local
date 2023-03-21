@@ -7,9 +7,7 @@ Programming language git
     - Pre-compile
 
 
-### Data type
-Bool-1 byte
-=======
+
 ## Data Types
 Bool-1 byte
 
