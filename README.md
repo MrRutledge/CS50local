@@ -8,7 +8,7 @@ Programming language git
 
 
 
-## Data Types
+## Data Type
 Bool-1 byte
 
 int - 4 bytes 32
