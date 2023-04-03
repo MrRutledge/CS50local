@@ -29,4 +29,4 @@ Strings in
 strings s = " string is an array with each charater having each memory.
 Strings takes up one more byte than required in C \0 Nu
 Arrays
-Strin
+Stri
