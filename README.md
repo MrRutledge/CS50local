@@ -11,7 +11,7 @@ Programming language git
 ## Data Type
 Bool-1 byte
 
-int - 4 bytes 3
+int - 4 bytes 32
 long - 8 bytes 66
 float - 4 bytes3
 double - 8 bytes 
