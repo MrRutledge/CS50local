@@ -14,7 +14,7 @@ Bool-1 byte
 int - 4 bytes 3
 long - 8 bytes 66
 float - 4 bytes3
-double - 8 bytes 
+double - 8 byte
 char - 1 bytes
 String - ..
 
