@@ -2,7 +2,7 @@
 
 ### C 
 Programming language git
-  Compiling has four steps in C or any programming languange, namely precompile, compile, assemblying and linking.
+  Compiling has four steps in C or an programming languange, namely precompile, compile, assemblying and linking.
   Step one
     - Pre-compi
 
@@ -18,7 +18,7 @@ double - 8 byte
 char - 1 byte
 String - .
 
-Memory allocation-computer memory is a canvas
+Memory allocation-computr memory is a canvas
 
 Arrays- An array is a way to storing you data back to back in such a way that it can be retrived. Memory contiguous left to right top to bottom
 
