@@ -8,7 +8,7 @@ Programming language git
 
 
 
-## Data Ty
+## Data types 
 
 Bool-1 byt
 
