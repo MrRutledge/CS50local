@@ -10,7 +10,7 @@ Programming language git
 
 ## Data types 
 
-Bool-1 byt
+Bool-1 bytes
 
 int - 4 bytes 3
 long - 8 bytes 66
