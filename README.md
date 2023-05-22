@@ -10,7 +10,7 @@ Programming language git
 
 ## Data ty
 
-Bool-1 bytesKKJK
+Bool-1 bytes
 
 int - 4 bytes 3
 long - 8 bytes 66
