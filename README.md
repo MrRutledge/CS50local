@@ -8,7 +8,7 @@ Programming language git
 
 
 
-## Data ty
+## Data t
 
 Bool-1 bytes
 
