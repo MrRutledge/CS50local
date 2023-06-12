@@ -8,9 +8,9 @@ Programming language git
 
 
 
-## Data t
+## Data types 
 
-Bool-1 byte
+Bool-1 bytes
 
 int - 4 bytes 3
 long - 8 bytes 66
