@@ -12,7 +12,7 @@ Programming language git
 
 Bool-1 bytes
 
-int - 4 bytes 3
+int - 4 bytes 2
 long - 8 bytes 66
 float - 4 bytes3
 double - 8 byte
