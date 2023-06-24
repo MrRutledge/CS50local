@@ -3,7 +3,7 @@
 ### C 
 Programming language gi
   Compiling has four steps in C or an programming languange, namely precompile, compile, assemblying and linking.
-  Step one
+  Step on
     - Pre-compiler
 
 
