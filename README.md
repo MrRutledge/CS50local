@@ -1,7 +1,7 @@
 # CS50local NOTES
 
 ### C 
-Programming language gi
+Programming language git
   Compiling has four steps in C or an programming languange, namely precompile, compile, assemblying and linking.
   Step on
     - Pre-compiler
