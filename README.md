@@ -19,7 +19,7 @@ double - 8 byte
 char - 1 byte
 String - .
 
-Memory allocation-computr memory is a canvas
+Memory allocation-computer memory is a canvas
 
 Arrays- An array is a way to storing you data back to back in such a way that it can be retrived. Memory contiguous left to right top to bottom
 
