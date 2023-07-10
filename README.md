@@ -2,7 +2,7 @@
 
 ### C 
 Programming language git
-  Compiling has four steps in C or an programming languange, namel precompile, compile, assemblying and linking.
+  Compiling has four steps in C or an programming languange, name precompile, compile, assemblying and linking.
   Step on
     - Pre-compiler
 
